@@ -1,6 +1,6 @@
-# Synaptics Astra Demos
+# Synaptics Astra Demos Staging
 
-This repository hosts demos and tools built for Synaptics Astra™ platforms for our SL Series Processors.
+This repository is staging Org for [Synaptics Astra Demos](https://github.com/synaptics-astra-demos) which hosts demos and tools built for Synaptics Astra™ platforms for our SL Series Processors.
 
 These examples showcase efficient on-device inference and deployment for Edge AI applications using Synaptics SL NPUs and GPUs.
 
